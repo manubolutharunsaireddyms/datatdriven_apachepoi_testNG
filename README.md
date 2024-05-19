@@ -1,1 +1,2 @@
 # datatdriven_apachepoi_testNG
+Data-driven Selenium testing framework using Apache POI library and TestNG. Utilized Apache POI to read test data from Excel spreadsheets and integrate it into automated test scripts. Implemented TestNG annotations to manage test execution and reporting. Enhanced test coverage and efficiency by parameterizing tests with various data sets. Contributed to improving testing processes and reducing manual effort through automation.
